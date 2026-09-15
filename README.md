@@ -28,4 +28,4 @@ Next.js / TypeScript web application.
 
 ### 📫 Contact
 
-[LinkedIn] | [raymondjeff0502@gmail.com] | [Portfolio]
+[LinkedIn] | [raymondjeff0502@gmail.com] | [https://smart01-bot.github.io/]
