@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Raymond 👋
 
-<!--
-**smart01-bot/smart01-bot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Software Developer | IT & Technical Systems
 
-Here are some ideas to get you started:
+Electronics & Telecommunications Engineering graduate with hands-on
+experience in software development, IT support, electronics,
+telecommunications, and technical systems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tech Stack
+
+- React / TypeScript
+- Node.js / Express
+- Flutter
+- PHP
+- PostgreSQL / Supabase
+- MySQL
+- REST APIs
+- Git & GitHub
+
+### 🚀 Featured Projects
+
+🔹 SILVERSTONE — Mobile Money Float Management System
+Full-stack system with React, Node.js, PostgreSQL, Redis,
+JWT authentication, role-based access and real-time dashboards.
+
+🔹 Tour de Rotary DSM
+Next.js / TypeScript web application.
+
+### 📫 Contact
+
+[LinkedIn] | [raymondjeff0502@gmail.com] | [Portfolio]
